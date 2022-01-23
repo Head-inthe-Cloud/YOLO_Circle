@@ -1,7 +1,11 @@
 # YOLO_Circle
 This is the original YOLO I coded from scratch, and changed its anchor boxes to circles
 
-For details, please see my [PowerPoint](https://docs.google.com/presentation/d/1yPn5l8G3DCUZgkGy0KA12TyCHTLJEKnjKeoTGFGcB0Y/edit?usp=sharing)
+![Demo picture of the algorithm](./img/demo.png)
+
+For details about the network and how I changed the anchor box, please see my [PowerPoint](https://docs.google.com/presentation/d/1yPn5l8G3DCUZgkGy0KA12TyCHTLJEKnjKeoTGFGcB0Y/edit?usp=sharing)
+
+And the code is on [Google Colab Notebook](https://colab.research.google.com/drive/1w6wuaEI34NAQEvYQsQ1kUCnF6AMNiQqO?usp=sharing)
 
 # References
 [Original YOLO Paper](https://arxiv.org/pdf/1506.02640.pdf)
